@@ -1,0 +1,39 @@
+body {
+  background-color: #1a1a1a; /* Dark background similar to mtggoldfish */
+  color: #f0f0f0; /* Light text color */
+}
+
+a {
+  color: #00aaff; /* Blue link color */
+}
+
+a:hover {
+  color: #0077cc; /* Darker blue on hover */
+}
+
+.site-header {
+  background-color: #222222; /* Slightly lighter dark header */
+  border-bottom: 1px solid #333333;
+}
+
+.site-title a {
+  color: #f0f0f0;
+}
+
+.site-nav .page-link {
+  color: #f0f0f0;
+}
+
+.post-content {
+  background-color: #222222;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.post-link {
+  color: #00aaff;
+}
+
+.post-meta {
+  color: #aaaaaa;
+}
