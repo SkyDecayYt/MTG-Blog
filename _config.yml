@@ -1,5 +1,5 @@
 title: My Simple Blog
 description: A blog about interesting things.
-theme: minima # This is a default Jekyll theme
+theme: al-folio # This is a default Jekyll theme
 sass:
   sass_dir: _sass
