@@ -13,7 +13,7 @@ As of early July 2025, **Dimir Midrange** has confidently stepped into the spotl
 
 For instance, in the absence of cards like Monstrous Rage and Heartfire Hero, Dimir Midrange leans on efficient removal spells to keep the board clear. Cards like **Cut Down** and **Go for the Throat** have become even more crucial for dealing with early and mid-game threats.
 
-![Cut Down](https://cdn1.mtggoldfish.com/images/h/Cut-Down-DMU-672.jpg)
+![Cut Down](https://cdn1.mtggoldfish.com/images/h/Cut-Down-DMU-672.jpg) { width=50% }
 
 ![Go for the Throat](https://gatherer-static.wizards.com/Cards/medium/D49FC1048E458A3AF23972686A62266B22ECFE21B58B3F4B53349D5EA0F3D2E6.webp)
 
