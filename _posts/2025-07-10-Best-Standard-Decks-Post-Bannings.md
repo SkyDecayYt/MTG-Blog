@@ -13,11 +13,9 @@ As of early July 2025, **Dimir Midrange** has confidently stepped into the spotl
 
 For instance, in the absence of cards like Monstrous Rage and Heartfire Hero, Dimir Midrange leans on efficient removal spells to keep the board clear. Cards like **Cut Down** and **Go for the Throat** have become even more crucial for dealing with early and mid-game threats.
 
+<img src="https://gatherer-static.wizards.com/Cards/medium/52F7B73FFF92A931EC6D4976D1DDDC8C73F452A8CFA329AA68ADE36B09AFA551.webp" alt="drawing" width="300"/>
 
-
-![Cut Down]<img src="https://gatherer-static.wizards.com/Cards/medium/52F7B73FFF92A931EC6D4976D1DDDC8C73F452A8CFA329AA68ADE36B09AFA551.webp" alt="drawing" width="200"/>
-
-![Go for the Throat](https://gatherer-static.wizards.com/Cards/medium/D49FC1048E458A3AF23972686A62266B22ECFE21B58B3F4B53349D5EA0F3D2E6.webp)
+<img src="https://gatherer-static.wizards.com/Cards/medium/D49FC1048E458A3AF23972686A62266B22ECFE21B58B3F4B53349D5EA0F3D2E6.webp" alt="drawing" width="300"/>
 
 
 Beyond Dimir Midrange, several other archetypes are making their mark in the evolving Standard metagame:
