@@ -5,7 +5,7 @@ date: 2025-07-10 10:00:00 -0400
 categories: mtg standard metagame bannings
 ---
 
-The recent June 30th bannings have hit the Magic: The Gathering Standard metagame like a rogue lightning bolt to a perfectly constructed mana base. The cards sent packing include Cori-Steel Cutter, Abuelo's Awakening, Monstrous Rage, Heartfire Hero, Up the Beanstalk, Hopeless Nightmare, and This Town Ain't Big Enough. These weren't just minor adjustments; these were surgical strikes against the format's most efficient and, let's be honest, sometimes infuriating strategies, such as Izzet Prowess, Azorius Omniscience, and Mono-Red Aggro. It's like the format finally decided to clean out its closet, and some very loud, very aggressive outfits got the boot.
+The recent June 30th bannings have hit the Magic: The Gathering Standard metagame like a rogue sink hole to a perfectly constructed mana base. The cards sent packing include Cori-Steel Cutter, Abuelo's Awakening, Monstrous Rage, Heartfire Hero, Up the Beanstalk, Hopeless Nightmare, and This Town Ain't Big Enough. These weren't just minor adjustments; these were surgical extractions against the format's most efficient and, let's be honest, sometimes infuriating strategies, such as Izzet Prowess, Azorius Omniscience, and Mono-Red Aggro. It's like the format finally decided to clean out its closet, and some very loud, very aggressive outfits got the boot.
 
 The removal of these key cards has created a fascinating void, allowing new archetypes to emerge and existing ones to adapt with the grace of a seasoned pro dodging a lethal attack. Players are now navigating a landscape where raw aggression isn't always the answer, and the game rewards resilience, careful resource management, and a keen eye for versatile threats. Basically, it's less about smashing face and more about outsmarting your opponent, which, for some of us, is a welcome change.
 
@@ -13,13 +13,10 @@ As of early July 2025, **Dimir Midrange** has confidently stepped into the spotl
 
 For instance, in the absence of cards like Monstrous Rage and Heartfire Hero, Dimir Midrange leans on efficient removal spells to keep the board clear. Cards like **Cut Down** and **Go for the Throat** have become even more crucial for dealing with early and mid-game threats.
 
-![Cut Down](https://cards.scryfall.io/large/front/4/c/4c2b0209-0d58-4b1f-9d8d-26da59b02175.jpg?1673307061)
+![Cut Down](https://cdn1.mtggoldfish.com/images/h/Cut-Down-DMU-672.jpg)
 
-![Go for the Throat](https://cards.scryfall.io/png/front/3/6/3640a281-0b75-4b92-a926-0730a31322a8.png?1562617734)
+![Go for the Throat](https://gatherer-static.wizards.com/Cards/medium/D49FC1048E458A3AF23972686A62266B22ECFE21B58B3F4B53349D5EA0F3D2E6.webp)
 
-Similarly, counterspells like **Anticognition** are vital for disrupting key plays and protecting your own board presence.
-
-![Anticognition](https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1ed6b537-08be-4232-8821-7997367690b7.jpg?1604193627)
 
 Beyond Dimir Midrange, several other archetypes are making their mark in the evolving Standard metagame:
 
